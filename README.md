@@ -1,5 +1,5 @@
-# data-analyst-EL-Task2
-# Task 2: Data Visualization and Storytelling — Super Store Sales Analysis
+# data-analyst-Global_Superstore
+# Data Visualization and Storytelling — Super Store Sales Analysis
 
 ## Objective
 Create visualizations that convey a compelling business story from the Global Superstore dataset.
